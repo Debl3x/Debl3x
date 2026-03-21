@@ -24,15 +24,7 @@
 ## Plateformes CTF
 
 <p align="center">
-  <a href="https://app.hackthebox.com/public/users/2445562">
-    <img src="https://img.shields.io/badge/HackTheBox-Debl3x-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox">
-  </a>
-  <a href="https://tryhackme.com/p/Debl3x">
-    <img src="https://img.shields.io/badge/TryHackMe-Debl3x-darkred?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
-  </a>
-  <a href="http://root-me.org/Debl3x">
-    <img src="https://img.shields.io/badge/RootMe-Debl3x-black?style=for-the-badge&logoColor=white" alt="RootMe">
-  </a>
+<a href="https://app.hackthebox.com/public/users/2445562"><img src="https://img.shields.io/badge/HackTheBox-DEBL3X-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"></a>&nbsp;<a href="https://tryhackme.com/p/Debl3x"><img src="https://img.shields.io/badge/TryHackMe-DEBL3X-darkred?style=for-the-badge&logo=tryhackme&logoColor=white"></a>&nbsp;<a href="http://root-me.org/Debl3x"><img src="https://img.shields.io/badge/RootMe-DEBL3X-black?style=for-the-badge"></a>
 </p>
 
 ---
@@ -40,9 +32,9 @@
 ## Certifications
 
 <p align="center">
-<a href="https://certs.ine.com/b11bee3f-3d27-4bb6-a197-5a7c77fae000">
-  <img src="https://img.shields.io/badge/eJPT-INE Certified-purple?style=flat-square&logo=hackaday&logoColor=white" alt="eJPT Certified">
-</a>
+  <a href="https://certs.ine.com/b11bee3f-3d27-4bb6-a197-5a7c77fae000">
+    <img src="https://img.shields.io/badge/eJPT-INE Certified-purple?style=flat-square&logo=hackaday&logoColor=white" alt="eJPT Certified">
+  </a>
 </p>
 
 ---
