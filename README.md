@@ -54,8 +54,8 @@
 ## Statistiques & Activité
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debl3x&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="180" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debl3x&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180" alt="Top Languages">
+  <img src="https://github-readme-stats-api-coral.vercel.app/api?username=Debl3x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180">
+  <img src="https://github-readme-stats-api-coral.vercel.app/api/top-langs/?username=Debl3x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180">
 </p>
 
 ---
