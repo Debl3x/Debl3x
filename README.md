@@ -37,7 +37,7 @@
   </a>
 </p>
 
-<p align="center"><a href="https://www.credly.com/badges/35bcb7a8-06ed-414c-9696-7db8dafc1000/public_url"><img src="https://img.shields.io/badge/HTB%20CWES-Certified-9FEF00?style=flat-square&logo=hackthebox&logoColor=white" alt="HTB CWES Certified"></a></p>
+<p align="center"><a href="https://www.credly.com/badges/35bcb7a8-06ed-414c-9696-7db8dafc1000/public_url"><img src="https://img.shields.io/badge/CWES-Hack%20The%20Box%20Certified-9FEF00?style=flat-square&logo=hackthebox&logoColor=white" alt="CWES Certified"></a></p>
 
 ---
 
